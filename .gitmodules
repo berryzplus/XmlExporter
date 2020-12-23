@@ -1,0 +1,4 @@
+[submodule "OpenCppCoverage"]
+	path = OpenCppCoverage
+	url = https://github.com/berryzplus/OpenCppCoverage.git
+	branch = master
